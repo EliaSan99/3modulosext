@@ -1,0 +1,33 @@
+{
+  "name": "3modulos",
+  "version": "1.0.0",
+  "description": "3 modulos externos tarea",
+  "main": "Express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliaSan99/3modulosext.git"
+  },
+  "keywords": [
+    "Express",
+    "modulos",
+    "externos",
+    "tarea"
+  ],
+  "author": "Elías Sánchez García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliaSan99/3modulosext/issues"
+  },
+  "homepage": "https://github.com/EliaSan99/3modulosext#readme",
+  "dependencies": {
+    "crypt-me": "^2.0.2",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
